@@ -1,0 +1,50 @@
+body{
+  margin: 0px;
+  /*background-position: top;
+  background-repeat: no-repeat;*/
+  background-size: cover;
+}
+
+
+.name{
+    background: linear-gradient(45deg, rgb(32, 114, 214) 0%, rgb(78, 140, 213) 100%);
+    left: 0;
+    position: relative;
+    right: 0;
+    top: 0;
+    height: 2em;
+    padding-left: 10px;
+    padding-bottom: 5vh;
+}
+
+.avatar{
+	position: absolute;
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+}
+
+button{
+	border: transparent;
+	background: transparent;
+}
+
+.button-img{
+	width: 8vw;
+	height: 15vh;
+	position: absolute;
+	bottom: 0px;
+	right:0px;
+	
+}
+.icono{
+	height: 60px;
+}
+
+.HeadNey{
+	position: absolute;
+	bottom: 20vh;
+	right: 0px;
+	height: 10vh;
+	width: 5vw;
+}
